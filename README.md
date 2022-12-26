@@ -2,7 +2,7 @@
 
 ## ```Nội dung```
 1. [`Chọn bài tập`](#1-chọn-bài-tập)
-2. [`Nhắc lại bà học`](#2-nhắc-lại-bài-học)
+2. [`Nhắc lại bài học`](#2-nhắc-lại-bài-học)
 3. [`Bài tập và thực hành`](#3-bài-tập-và-thực-hành)
 4. [`Đáp án`](#4-đáp-án)
 4. [`So sánh kết quả`](#5-so-sánh-kết-quả)
@@ -13,7 +13,7 @@
 ![alt text](https://github.com/CodeWithTu/PythonCoBan/blob/main/Huong_dan_1.png?raw=true "Tú thích lập trình(lập trình Python cơ bản) - Chọn bài tập tương ứng")
 
 [`Trở lại nội dung`](#nội-dung)
-## 2. Nhắc lại bà học:
+## 2. Nhắc lại bài học:
 -- Đọc kỹ phần <ins>nhắc lại bài học</ins> trước khi làm bải tập
 
 ![alt text](https://github.com/CodeWithTu/PythonCoBan/blob/main/Huong_dan_2.png?raw=true "Tú thích lập trình(lập trình Python cơ bản) - Đọc kỹ nhắc lại bài học trước khi làm bài tập")
