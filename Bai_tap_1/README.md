@@ -1,4 +1,4 @@
-<h3>I. Nhắc lại bài học</h3>
+# I. Nhắc lại bài học
 
 >Để có thể làm bài tập phía dưới, mọi người ghi nhớ lại bài đã học
 >
@@ -6,9 +6,10 @@
 >- Lệnh in xuống dòng : <b>print('''Nội dung cần in, xuống dòng''')</b>
 >- Lệnh in phép tính : <b>print("2 + 3 =", 2 + 3)</b>
 >
-<h3>II. Bài tập</h3>
-1. Hiển thị ra màn hình dòng chữ <b>"Xin chào, Python!"</b><br/>
-2. Hiển thi ra màn hình câu thơ sau:<br/>
+# II. Bài tập
+
+## 1. Hiển thị ra màn hình dòng chữ <b>"Xin chào, Python!"</b>
+## 2. Hiển thi ra màn hình câu thơ sau:<br/>
 '''Ai về thăm mẹ quê ta<br/>
 Chiều nay có đứa con xa nhớ thầm...<br/>
 Bầm ơi có rét không bầm!<br/>
@@ -18,7 +19,7 @@ Chân lội dưới bùn, tay cấy mạ non<br/>
 Mạ non bầm cấy bầm đon<br/>
 Ruột gan bầm lại thương con mấy lần.<br/>
 Trích: Bầm ơi - Tố Hữu'''<br/>
-3. Cho hình chữ nhật có chiều dài ra chiều rộng lần lượt là 5 và 6. Bạn hãy viết chương trình hiển thị ra màn hình thông tin sau:<br />
+## 3. Cho hình chữ nhật có chiều dài ra chiều rộng lần lượt là 5 và 6. Bạn hãy viết chương trình hiển thị ra màn hình thông tin sau:<br />
 
 >Area = {P1}
 >
